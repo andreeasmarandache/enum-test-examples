@@ -1,3 +1,5 @@
+package StatusTest;
+
 public enum StatusTest {
 
     PASSED,

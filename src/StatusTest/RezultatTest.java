@@ -1,3 +1,5 @@
+package StatusTest;
+
 class RezultatTest {
 
     private String testId;
